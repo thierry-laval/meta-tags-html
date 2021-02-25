@@ -198,3 +198,6 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 - [OpenGraph Meta Tags](http://opengraphprotocol.org/)
 - [Link Tag Meaning](http://intertwingly.net/wiki/pie/LinkTagMeaning)
 - [Google Chrome HTML5 Tags](http://www.html5rocks.com/)
+- [Créateur de balises] (http://www.outils-referencement.com/outils/pages-web/balises-meta/)
+
+
